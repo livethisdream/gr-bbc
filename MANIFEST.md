@@ -7,8 +7,10 @@ tags:
   - jam resistance
 author:
   - James Morrison <jamescmorrison00@gmail.com>
+  - Neil Rogers <livethisdream@gmail.com>
 copyright_owner:
   - James Morrison <jamescmorrison00@gmail.com>
+  - Neil Rogers <livethisdream@gmail.com>
 license: GPL-3.0-or-later
 gr_supported_version: v3.10
 repo: https://github.com/livethisdream/gr-bbc
